@@ -1,0 +1,40 @@
+.cert {
+  height: 85vh;
+  background: url('diplomeusthb.jpg') no-repeat;
+  background-size: cover;
+  margin-left: 150px;
+}
+
+.pc {
+  width: 200vh;
+  /* background: url("b3.jpg") no-repeat;
+  background-size: cover; */
+  /* background-color: white; */
+}
+#fname {
+  font-size: 48px;
+  padding-top: 186px;
+  padding-left: 20px;
+  color: black;
+}
+
+#course {
+  font-size: 23px;
+  margin-top: 50px;
+  margin-left: 25px;
+  font-weight: bold;
+}
+
+#txh {
+  margin-top: 140px;
+  margin-left: -520px;
+}
+
+#id {
+  margin-top: -21px;
+  margin-left: 710px;
+}
+
+.btn {
+  margin-top: 10px;
+}

@@ -1,0 +1,10 @@
+.bar {
+  margin-bottom: 0 !important;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.bar {
+  font-weight: bold;
+}
